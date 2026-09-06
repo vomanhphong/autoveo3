@@ -1,3 +1,9 @@
+tải file ở đây
+https://github.com/vomanhphong/autoveo3/releases/tag/v2.0.0
+
+=======================================
+hướng dẫn cài đặt.
+
 clip 1: làm theo hướng dẫn cài đặt trong video này nhá:
 https://www.youtube.com/watch?v=-Zb8DOb57Wk
 
