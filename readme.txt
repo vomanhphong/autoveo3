@@ -1,5 +1,5 @@
 tải file ở đây
-https://github.com/vomanhphong/autoveo3/releases/tag/v2.3.5
+https://github.com/vomanhphong/autoveo3/releases/tag/v2.3.6
 
 =======================================
 hướng dẫn cài đặt.
